@@ -1,0 +1,12 @@
+IDEAS
+
+CASTLE
+
+Short Castle
+- White to right   (dif of -2)
+- Black to left    (dif of 2)
+
+DRAW
+
+- After 3 repeated positions
+- After 50 whole moves with no capture or pawn move

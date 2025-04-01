@@ -1,0 +1,2 @@
+state = 'menu'
+args = None
